@@ -4,7 +4,7 @@ Welcome to Wanderlust Adventures Bootstrap, a website project built with HTML, C
 
 ## Features
 
-Wanderlust Adventures Bootstrap includes the following features:
+Wanderlust Adventures Bootstrap includes the following features :
 
 -Responsive design that adjusts to fit various screen sizes.
 
