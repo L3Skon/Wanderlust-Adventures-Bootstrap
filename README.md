@@ -1,5 +1,12 @@
 # Wanderlust-Adventures-Bootstrap
 
+Welcome to Wanderlust Adventures Bootstrap, a website project built with HTML, CSS, and Bootstrap 4. This project was created to showcase my skills in web development and to provide an example of a responsive and user-friendly website for a travel company.
+
+## Usage
+
+Feel free to use this project as inspiration for your own travel website or as a learning tool to improve your web development skills. You can modify the content and design to fit your own needs, but please give credit to the original source if you choose to publish your modified version.
+
+
 ## Final Result
 
 [Project.webm](https://user-images.githubusercontent.com/116310246/221443197-f0ba6f4c-fe26-4e14-b653-74b18010a268.webm)
